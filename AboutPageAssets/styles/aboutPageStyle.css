@@ -397,4 +397,11 @@ footer .footerNote {
 	margin-right: 3%;
 	font-family: sans-serif;
 }
+.profilePhoto {
+   border-radius: 50%;
+ -ms-transform: rotate(-5deg); /* IE 9 */
+  -webkit-transform: rotate(-5deg); /* Safari 3-8 */
+  transform: rotate(-5deg);
+  }
+	
 }
